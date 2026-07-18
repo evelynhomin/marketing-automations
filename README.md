@@ -1,4 +1,4 @@
-# GEO Automation Portfolio
+# Marketing Automation Portfolio
 
 My name's Evelyn Homin. This is my work on marketing automation built with Claude Code, including tools that help brands show up in AI search tools and SEO, using Claude to automate article generation and more.
 
