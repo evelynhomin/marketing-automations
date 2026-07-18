@@ -1,6 +1,6 @@
 # Marketing Automation Portfolio
 
-My name's Evelyn Homin. This is my work on marketing automation built with Claude Code, including tools that help brands show up in AI search tools and SEO, using Claude to automate article generation and more.
+Hi! I'm Evelyn, and this is my work on marketing automation built with Claude Code, including tools that help brands show up in AI search tools and SEO, using Claude to automate article generation and website analytics and more.
 
 Feel free to explore, and get in touch if you'd like to chat about any of these: hello@hominstudio.com
 
