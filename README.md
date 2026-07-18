@@ -2,7 +2,9 @@
 
 My name's Evelyn Homin. This is my work on marketing automation built with Claude Code, including tools that help brands show up in AI search tools and SEO, using Claude to automate article generation and more.
 
-Feel free to explore, and get in touch if you'd like to chat about any of these: hello@hominstudio.com
+**Stack:** Node.js, Claude Code, Playwright, Webflow API, Framer API, Google Analytics & Search Console APIs
+
+Feel free to explore, and get in touch if you'd like to chat about any of these: hello@hominstudio.com | [LinkedIn](https://www.linkedin.com/in/evelynhomin)
 
 ---
 
@@ -63,7 +65,3 @@ Feel free to explore, and get in touch if you'd like to chat about any of these:
 **How it works:** Fetches data from Google Analytics and Search Console, compares it against the previous month, and generates an email with the key insights.
 
 **Outcome:** Runs monthly, delivered straight to inbox, no manual pulling of reports required.
-
----
-
-*More case studies to come.*
