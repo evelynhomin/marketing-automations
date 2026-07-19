@@ -18,6 +18,8 @@ Feel free to explore, and get in touch if you'd like to chat about any of these:
 
 **Outcome:** Used to publish 4 articles so far.
 
+[View code →](./01-framer-publishing)
+
 ---
 
 ### 2. GEO baseline audit report
@@ -29,6 +31,8 @@ Feel free to explore, and get in touch if you'd like to chat about any of these:
 **How it works:** I plan and research the actual queries a brand's customers would ask, upfront and by hand, so the baseline reflects real search behaviour rather than guesses. Automation then captures and organises snapshots across all 4 platforms, and generates the report.
 
 **Outcome:** An accurate, repeatable baseline that can be tracked over time, built on real query research rather than assumptions.
+
+[View code →](./02-geo-baseline-audit)
 
 ---
 
@@ -42,6 +46,8 @@ Feel free to explore, and get in touch if you'd like to chat about any of these:
 
 **Outcome:** Laid the schema and meta foundations for that business's GEO and SEO work. Still being tracked as the work continues.
 
+[View code →](./03-schema-meta-fixing)
+
 ---
 
 ### 4. Automated article posting to Webflow CMS
@@ -54,6 +60,8 @@ Feel free to explore, and get in touch if you'd like to chat about any of these:
 
 **Outcome:** Saves around 2 hours of manual work per article.
 
+[View code →](./04-webflow-cms-posting)
+
 ---
 
 ### 5. Monthly website analytics comparison and insights
@@ -65,3 +73,5 @@ Feel free to explore, and get in touch if you'd like to chat about any of these:
 **How it works:** Fetches data from Google Analytics and Search Console, compares it against the previous month, and generates an email with the key insights.
 
 **Outcome:** Runs monthly, delivered straight to inbox, no manual pulling of reports required.
+
+[View code →](./05-monthly-analytics)
